@@ -2,7 +2,7 @@
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#hhttps://github.com/omenking/localstack-gitpod-template)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/madhusudhanbn/localstack-gitpod-template)
 
 This gitpod environment will automatically install and start localstack.
 
